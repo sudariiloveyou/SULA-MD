@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝐒𝐔𝐋𝐀-𝐌𝐃=tmMiUbpI#ORG7Y7sq1LiaRhnjb-WstkKvFo2w0hxq0GY6zrBEGhU.",
       "required": true
     },
  "NEWS_SEND_JID": {
